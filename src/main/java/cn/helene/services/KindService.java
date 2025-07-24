@@ -1,4 +1,4 @@
-package cn.helene.service.services;
+package cn.helene.services;
 
 import cn.cie.entity.Kind;
 import cn.cie.entity.dto.GameDTO;

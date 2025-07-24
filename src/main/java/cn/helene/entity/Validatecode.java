@@ -1,4 +1,4 @@
-package cn.cie.entity;
+package cn.helene.entity;
 
 /**
  * 注册时发送到邮箱的验证码，用来验证用户邮箱

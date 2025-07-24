@@ -1,4 +1,4 @@
-package cn.cie.controller;
+package cn.helene.controller;
 
 import cn.cie.entity.Game;
 import cn.cie.services.AdminService;

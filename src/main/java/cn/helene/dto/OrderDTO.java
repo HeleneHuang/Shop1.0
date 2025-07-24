@@ -1,7 +1,6 @@
-package cn.cie.entity.dto;
+package cn.helene.dto;
 
 import cn.cie.entity.Order;
-import cn.cie.entity.Orderitem;
 
 import java.util.Date;
 import java.util.List;

@@ -1,4 +1,4 @@
-package cn.cie.entity;
+package cn.helene.entity;
 
 /**
  * 订单-订单详情映射

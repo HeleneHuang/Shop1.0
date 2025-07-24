@@ -1,4 +1,4 @@
-package cn.helene.exception.exception;
+package cn.helene.exception;
 
 import cn.cie.utils.MsgCenter;
 import org.springframework.http.HttpStatus;

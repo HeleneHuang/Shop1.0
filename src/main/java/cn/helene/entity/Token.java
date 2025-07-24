@@ -1,4 +1,4 @@
-package cn.cie.entity;
+package cn.helene.entity;
 
 import java.util.Date;
 

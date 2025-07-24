@@ -1,4 +1,4 @@
-package cn.helene.service.services;
+package cn.helene.services;
 
 import cn.cie.entity.dto.GameDTO;
 import cn.cie.utils.Result;

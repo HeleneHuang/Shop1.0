@@ -1,4 +1,4 @@
-package cn.cie.entity;
+package cn.helene.entity;
 
 /**
  * 游戏图片

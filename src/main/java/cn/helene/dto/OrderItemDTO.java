@@ -1,4 +1,4 @@
-package cn.cie.entity.dto;
+package cn.helene.dto;
 
 import cn.cie.entity.Code;
 import cn.cie.entity.Game;
