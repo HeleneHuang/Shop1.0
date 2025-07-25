@@ -1,0 +1,33 @@
+28-Feb-2025 12:41:19.887 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server.服务器版本: Apache Tomcat/8.5.88
+28-Feb-2025 12:41:19.891 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器构建:        Apr 14 2023 20:16:27 UTC
+28-Feb-2025 12:41:19.892 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器版本号:      8.5.88.0
+28-Feb-2025 12:41:19.892 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 操作系统名称:      Windows 10
+28-Feb-2025 12:41:19.892 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS.版本:           10.0
+28-Feb-2025 12:41:19.892 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 架构:              amd64
+28-Feb-2025 12:41:19.892 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java 环境变量:     D:\jdk1.8\jre
+28-Feb-2025 12:41:19.893 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java虚拟机版本:    1.8.0_382-b05
+28-Feb-2025 12:41:19.893 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM.供应商:        Amazon.com Inc.
+28-Feb-2025 12:41:19.893 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:     C:\Users\Administrator\Desktop\资料\项目\shop-Java\shop\shop
+28-Feb-2025 12:41:19.893 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:     D:\apache-tomcat-8.5.88
+28-Feb-2025 12:41:19.893 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dcatalina.home=D:\apache-tomcat-8.5.88
+28-Feb-2025 12:41:19.893 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dcatalina.base=C:\Users\Administrator\Desktop\资料\项目\shop-Java\shop\shop
+28-Feb-2025 12:41:19.893 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.io.tmpdir=C:\Users\Administrator\Desktop\资料\项目\shop-Java\shop\shop\temp
+28-Feb-2025 12:41:19.893 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.util.logging.config.file=C:\Users\Administrator\Desktop\资料\项目\shop-Java\shop\shop\conf\logging.properties
+28-Feb-2025 12:41:19.894 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+28-Feb-2025 12:41:19.894 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -javaagent:C:\IntelliJ IDEA Community Edition 2022.2.4\lib\idea_rt.jar=58599:C:\IntelliJ IDEA Community Edition 2022.2.4\bin
+28-Feb-2025 12:41:19.894 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dfile.encoding=UTF-8
+28-Feb-2025 12:41:19.894 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent 在java.library.path:[D:\jdk1.8\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\VMware Workstation\bin\;C:\Program Files (x86)\NetSarang\Xftp 6\;C:\Python38\Scripts\;C:\Python38\;C:\Program Files (x86)\NetSarang\Xshell 6\;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\WINDOWS\System32\OpenSSH\;D:\JAVA\bin;C:\Program Files\dotnet\;D:\nodejs;D:\Redis\;C:\Program Files (x86)\NetSarang\Xftp 8\;C:\xshell\;C:\xmanager\;C:\msys64\mingw64\bin;C:\Users\Administrator\.cargo\bin;C:\Python\Python36\Scripts\;C:\Python\Python36\;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;C:\Users\Administrator\AppData\Local\nvs\;C:\VS Code\bin;C:\Users\Administrator\AppData\Roaming\npm;C:\Users\Administrator\AppData\Local\Programs\Ollama;.]上找不到基于APR的Apache Tomcat本机库，该库允许在生产环境中获得最佳性能
+28-Feb-2025 12:41:20.028 信息 [main] org.apache.coyote.AbstractProtocol.init 初始化协议处理器 ["http-nio-8080"]
+28-Feb-2025 12:41:20.072 信息 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 1013 ms
+28-Feb-2025 12:41:20.311 信息 [main] org.apache.catalina.core.StandardService.startInternal 正在启动服务[Catalina]
+28-Feb-2025 12:41:20.311 信息 [main] org.apache.catalina.core.StandardEngine.startInternal 正在启动 Servlet 引擎：[Apache Tomcat/8.5.88]
+28-Feb-2025 12:41:20.354 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor 正在部署部署描述符[C:\Users\Administrator\Desktop\资料\项目\shop-Java\shop\shop\conf\Catalina\localhost\ROOT.xml]。
+28-Feb-2025 12:41:26.566 信息 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars 至少有一个JAR被扫描用于TLD但尚未包含TLD。 为此记录器启用调试日志记录，以获取已扫描但未在其中找到TLD的完整JAR列表。 在扫描期间跳过不需要的JAR可以缩短启动时间和JSP编译时间。
+28-Feb-2025 12:41:26.968 警告 [localhost-startStop-1] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom 使用[SHA1PRNG]创建会话ID生成的SecureRandom实例花费了[354]毫秒。
+28-Feb-2025 12:41:27.411 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor 部署描述符[C:\Users\Administrator\Desktop\资料\项目\shop-Java\shop\shop\conf\Catalina\localhost\ROOT.xml]的部署已在[7,057]ms内完成
+28-Feb-2025 12:41:27.415 信息 [main] org.apache.coyote.AbstractProtocol.start 开始协议处理句柄["http-nio-8080"]
+28-Feb-2025 12:41:27.438 信息 [main] org.apache.catalina.startup.Catalina.start Server startup in 7366 ms
+28-Feb-2025 12:41:46.375 信息 [Thread-2] org.apache.coyote.AbstractProtocol.pause 暂停ProtocolHandler["http-nio-8080"]
+28-Feb-2025 12:41:46.656 信息 [Thread-2] org.apache.catalina.core.StandardService.stopInternal 正在停止服务[Catalina]
+28-Feb-2025 12:41:46.670 信息 [Thread-2] org.apache.coyote.AbstractProtocol.stop 正在停止ProtocolHandler ["http-nio-8080"]
+28-Feb-2025 12:41:46.718 信息 [Thread-2] org.apache.coyote.AbstractProtocol.destroy 正在摧毁协议处理器 ["http-nio-8080"]
