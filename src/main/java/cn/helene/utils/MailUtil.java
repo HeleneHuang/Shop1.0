@@ -1,4 +1,4 @@
-package cn.cie.utils;
+package cn.helene.utils;
 
 import org.apache.commons.mail.EmailException;
 import org.apache.commons.mail.SimpleEmail;

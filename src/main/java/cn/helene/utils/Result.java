@@ -1,4 +1,4 @@
-package cn.cie.utils;
+package cn.helene.utils;
 
 /**
  * 后台接口返回结果，标识了是否成功、消息以及返回的数据

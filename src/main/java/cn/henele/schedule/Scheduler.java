@@ -1,4 +1,4 @@
-package cn.helene.schedule;
+package cn.henele.schedule;
 
 import cn.cie.services.OrderService;
 import cn.cie.services.UserService;
